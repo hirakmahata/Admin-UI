@@ -1,0 +1,41 @@
+/* .table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%
+} */
+
+.hoverPointer:hover {
+  cursor: pointer;
+}
+
+.stylePagination {
+  display: flex;
+  justify-content: space-between;
+}
+
+.stylePaginationItem {
+  border-radius: 50%;
+}
+
+.styleButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+tr {
+  line-height: 40px;
+  /* padding: 20px 0px; */
+}
+
+th {
+  line-height: 40px;
+}
+
+/* .designButton{
+
+    display: inline-flex;
+    align-items: center;
+    background-color: red;
+} */
